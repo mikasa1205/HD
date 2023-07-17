@@ -19,7 +19,7 @@ def main():
 
 	if choice=="Home":
 
-		st.write("# Multiple Disease Predictor App")
+		st.write("# HealthGuard: Web-based Early Detection System ")
 		#img = Image.open("cover.jpg")
 		#st.image(img)
 
