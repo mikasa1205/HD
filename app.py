@@ -26,7 +26,7 @@ def main():
 		st.write("""
 
 
-A multiple disease prediction system is an advanced healthcare technology that uses machine learning algorithms to predict the likelihood of a patient developing multiple diseases based on their medical history, lifestyle, genetic factors, and other relevant data. The system is designed to help doctors and medical professionals identify patients who are at a higher risk of developing multiple diseases and provide them with early intervention and appropriate medical care to prevent or manage the onset of these diseases. This system can have a significant impact on the healthcare industry by improving patient outcomes, reducing healthcare costs, and enhancing overall population health.
+HealthGaurd is an advanced healthcare technology that uses machine learning algorithms to predict the likelihood of a patient developing multiple diseases based on their medical history, lifestyle, genetic factors, and other relevant data. The system is designed to help doctors and medical professionals identify patients who are at a higher risk of developing multiple diseases and provide them with early intervention and appropriate medical care to prevent or manage the onset of these diseases. This system can have a significant impact on the healthcare industry by improving patient outcomes, reducing healthcare costs, and enhancing overall population health.
 
 
 There are a total of 5 diseases that can be predicted with the help of this application.
